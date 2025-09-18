@@ -106,5 +106,3 @@ CSV format:
 5. Open a Pull Request 🚀
 
 ---
-
-```
