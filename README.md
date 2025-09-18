@@ -107,12 +107,4 @@ CSV format:
 
 ---
 
-## ⚡ Next Steps
-
-After adding this README, run:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push origin main
 ```
