@@ -107,12 +107,6 @@ CSV format:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## ⚡ Next Steps
 
 After adding this README, run:
